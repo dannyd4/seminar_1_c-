@@ -2,7 +2,7 @@
 Console.Write("Введите число a = ");
 int a = Convert.ToInt32(Console.ReadLine());// ввод a
 Console.Write("Введите число b = ");
-int b = Convert.ToInt32(Console.ReadLine());// ввод у
+int b = Convert.ToInt32(Console.ReadLine());// ввод b
 
 if (a == b)// проверка на равенство
 {   
